@@ -1,0 +1,6 @@
+@Progra6_Assets_MaryelCastro_HostAddress = http://localhost:5039
+
+GET {{Progra6_Assets_MaryelCastro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

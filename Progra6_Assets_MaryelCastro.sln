@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progra6_Assets_MaryelCastro", "Progra6_Assets_MaryelCastro\Progra6_Assets_MaryelCastro.csproj", "{FEA01356-7300-4FAD-8303-71F3D4378B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA01356-7300-4FAD-8303-71F3D4378B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA01356-7300-4FAD-8303-71F3D4378B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA01356-7300-4FAD-8303-71F3D4378B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA01356-7300-4FAD-8303-71F3D4378B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C3AF4CE-6D2B-4DEE-956B-71E938F52DC8}
+	EndGlobalSection
+EndGlobal
