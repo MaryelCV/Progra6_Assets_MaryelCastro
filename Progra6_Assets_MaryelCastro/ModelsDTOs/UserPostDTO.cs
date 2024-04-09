@@ -5,8 +5,8 @@
         //Esta version de DTO se utiliza para agregar un usuario. Para el Post 
         //Aqui está la contrasennia
 
-        public int CodigoUsuario { get; set; }
-
+        //usaremos este dto para el proceso de crear un usuario nmuevo 
+       
         public string Cedula { get; set; } = null!;
 
         public string Nombre { get; set; } = null!;
@@ -20,12 +20,10 @@
         public string Correo { get; set; } = null!;
 
         public string Contrasennia { get; set; } = null!;
-
-        public bool? Activo { get; set; }
-
+   
         public int CodigoDeRol { get; set; }
 
-        public string? RolDeUsuario { get; set; }
+        
 
 
 
