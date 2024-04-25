@@ -13,7 +13,7 @@ namespace Progra6_Assets_MaryelCastro.Controllers
     [Route("api/[controller]")]
     [ApiController]
     //Funcional para obtener seguridad de los datos
-    [ApiKey]
+   // [ApiKey]
     public class UserRolesController : ControllerBase
     {
         private readonly Progra620241Context _context;
@@ -44,7 +44,7 @@ namespace Progra6_Assets_MaryelCastro.Controllers
             return userRole;
         }
 
-        // PUT: api/UserRoles/5
+        // PUT: api/UserRoles/5 
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
         public async Task<IActionResult> PutUserRole(int id, UserRole userRole)
